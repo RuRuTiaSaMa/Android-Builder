@@ -9,7 +9,7 @@
     },
     "toolchains": [
       {
-        "url": "https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-17.0.6-release/WeebX-Clang-17.0.6.tar.gz",
+        "url": "https://github.com/RuRuTiaSaMa/maou_clang/releases/download/17.0.0/maou-clang-17.0.0.tar.gz",
         "name": "clang",
         "binaryEnv": [
           "bin"
