@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Redmi K30 Pro （Maou Kernel）",
+      "name": "RedmiK30Pro （Maou Kernel）",
       "repo": "https://github.com/RuRuTiaSaMa/android_kernel_xiaomi_sm8250",
       "branch": "14",
       "device": "lmi",
