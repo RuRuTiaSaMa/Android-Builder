@@ -1,16 +1,16 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "Redmi K30 Pro (Maou Kernel)",
+      "repo": "https://github.com/RuRuTiaSaMa/android_kernel_xiaomi_sm8250",
+      "branch": "14",
+      "device": "lmi",
+      "defconfig": "lmi_defconfig"
     },
     "toolchains": [
       {
-        "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-        "branch": "lineage-20.0",
+        "repo": "https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240216-release/Clang-19.0.0git-20240216.tar.gz",
+        "branch": "",
         "name": "clang",
         "binaryEnv": [
           "bin"
@@ -59,7 +59,7 @@
       "use": true,
       "release": true
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   }
 ]
