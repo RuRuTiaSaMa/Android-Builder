@@ -9,8 +9,7 @@
     },
     "toolchains": [
       {
-        "repo": "https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240216-release/Clang-19.0.0git-20240216.tar.gz",
-        "branch": "",
+        "url": "https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240216-release/Clang-19.0.0git-20240216.tar.gz",
         "name": "clang",
         "binaryEnv": [
           "bin"
