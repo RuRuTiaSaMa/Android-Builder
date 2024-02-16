@@ -9,7 +9,7 @@
     },
     "toolchains": [
       {
-        "url": "https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240216-release/Clang-19.0.0git-20240216.tar.gz",
+        "url": "https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-17.0.6-release/WeebX-Clang-17.0.6.tar.gz",
         "name": "clang",
         "binaryEnv": [
           "bin"
