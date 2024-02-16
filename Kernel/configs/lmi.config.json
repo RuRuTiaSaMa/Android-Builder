@@ -40,7 +40,11 @@
     },
     "AnyKernel3": {
       "use": true,
-      "release": true
+      "release": true,
+      "custom": {
+        "repo": "https://github.com/RuRuTiaSaMa/AnyKernel3/",
+        "branch": "master"
+      }
     },
     "enableKernelSU": false,
     "enableLXC": false
